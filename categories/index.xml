@@ -9,5 +9,41 @@
 	<atom:link href="https://aivsim.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Features</title>
+      <link>https://aivsim.github.io/categories/features/</link>
+      <pubDate>Tue, 30 May 2017 22:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://aivsim.github.io/categories/others/</link>
+      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://aivsim.github.io/categories/tutorial/</link>
+      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://aivsim.github.io/categories/typography/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/categories/typography/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

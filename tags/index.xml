@@ -5,9 +5,91 @@
     <link>https://aivsim.github.io/tags/</link>
     <description>Recent content in Tags on Aivaras Šimulis</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 May 2017 12:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://aivsim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Config</title>
+      <link>https://aivsim.github.io/tags/config/</link>
+      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://aivsim.github.io/tags/example/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>https://aivsim.github.io/tags/feature/</link>
+      <pubDate>Tue, 30 May 2017 22:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to</title>
+      <link>https://aivsim.github.io/tags/how-to/</link>
+      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>https://aivsim.github.io/tags/install/</link>
+      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://aivsim.github.io/tags/lorem-ipsum/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>https://aivsim.github.io/tags/menu/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/menu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open graph</title>
+      <link>https://aivsim.github.io/tags/open-graph/</link>
+      <pubDate>Tue, 30 May 2017 22:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/open-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>https://aivsim.github.io/tags/translation/</link>
+      <pubDate>Tue, 30 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://aivsim.github.io/tags/translation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

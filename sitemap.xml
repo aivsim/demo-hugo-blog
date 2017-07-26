@@ -8,12 +8,112 @@
   </url>
   
   <url>
+    <loc>https://aivsim.github.io/blog/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aivsim.github.io/about/</loc>
     <lastmod>2017-07-04T22:04:13+03:00</lastmod>
   </url>
   
   <url>
+    <loc>https://aivsim.github.io/blog/open-graph-support/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/translation-support/</loc>
+    <lastmod>2017-05-30T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/menus/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/pagination/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/typography/</loc>
+    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/example-config-toml/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/blog/installation/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aivsim.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/config/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/example/</loc>
+    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/feature/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/categories/features/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/how-to/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/install/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/lorem-ipsum/</loc>
+    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/menu/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/open-graph/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/categories/others/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,6 +125,25 @@
   
   <url>
     <loc>https://aivsim.github.io/tags/</loc>
+    <lastmod>2017-05-30T22:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/tags/translation/</loc>
+    <lastmod>2017-05-30T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/categories/tutorial/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aivsim.github.io/categories/typography/</loc>
+    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
